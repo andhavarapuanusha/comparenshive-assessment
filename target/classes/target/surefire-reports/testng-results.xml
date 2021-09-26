@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="91186" started-at="2021-09-26T07:45:13 IST" finished-at="2021-09-26T07:46:44 IST">
+    <groups>
+    </groups>
+    <test name="runner" duration-ms="91186" started-at="2021-09-26T07:45:13 IST" finished-at="2021-09-26T07:46:44 IST">
+      <class name="com.comprensive_assessment_hybrid_framework.runner.Runner">
+        <test-method status="PASS" signature="intilize()[pri:0, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="intilize" is-config="true" duration-ms="36012" started-at="2021-09-26T07:45:13 IST" finished-at="2021-09-26T07:45:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intilize -->
+        <test-method status="PASS" signature="tvunits()[pri:0, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="tvunits" duration-ms="19821" started-at="2021-09-26T07:45:49 IST" finished-at="2021-09-26T07:46:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tvunits -->
+        <test-method status="PASS" signature="validate_stores()[pri:0, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="validate_stores" duration-ms="88" started-at="2021-09-26T07:46:09 IST" finished-at="2021-09-26T07:46:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_stores -->
+        <test-method status="PASS" signature="searchingelements()[pri:1, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="searchingelements" duration-ms="783" started-at="2021-09-26T07:46:09 IST" finished-at="2021-09-26T07:46:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchingelements -->
+        <test-method status="PASS" signature="gift_cards()[pri:2, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="gift_cards" duration-ms="17753" started-at="2021-09-26T07:46:10 IST" finished-at="2021-09-26T07:46:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gift_cards -->
+        <test-method status="PASS" signature="help()[pri:3, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="help" duration-ms="4511" started-at="2021-09-26T07:46:28 IST" finished-at="2021-09-26T07:46:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- help -->
+        <test-method status="PASS" signature="kidsroom()[pri:4, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="kidsroom" duration-ms="276" started-at="2021-09-26T07:46:32 IST" finished-at="2021-09-26T07:46:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kidsroom -->
+        <test-method status="PASS" signature="testdata(java.lang.String)[pri:5, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="testdata" duration-ms="3811" started-at="2021-09-26T07:46:33 IST" data-provider="exceldata" finished-at="2021-09-26T07:46:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[furniture]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata -->
+        <test-method status="PASS" signature="testdata(java.lang.String)[pri:5, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="testdata" duration-ms="2183" started-at="2021-09-26T07:46:37 IST" data-provider="exceldata" finished-at="2021-09-26T07:46:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chairs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata -->
+        <test-method status="PASS" signature="testdata(java.lang.String)[pri:5, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="testdata" duration-ms="2062" started-at="2021-09-26T07:46:39 IST" data-provider="exceldata" finished-at="2021-09-26T07:46:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dining]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata -->
+        <test-method status="PASS" signature="searchtab()[pri:6, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="searchtab" duration-ms="2336" started-at="2021-09-26T07:46:41 IST" finished-at="2021-09-26T07:46:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchtab -->
+        <test-method status="PASS" signature="connectwithus()[pri:8, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="connectwithus" duration-ms="405" started-at="2021-09-26T07:46:44 IST" finished-at="2021-09-26T07:46:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectwithus -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="close" is-config="true" duration-ms="212" started-at="2021-09-26T07:46:44 IST" finished-at="2021-09-26T07:46:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@1f021e6c]" name="test" is-config="true" duration-ms="8267" started-at="2021-09-26T07:46:44 IST" finished-at="2021-09-26T07:46:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.comprensive_assessment_hybrid_framework.runner.Runner -->
+    </test> <!-- runner -->
+  </suite> <!-- Suite -->
+</testng-results>

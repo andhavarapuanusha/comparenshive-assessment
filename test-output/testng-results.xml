@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46625" started-at="2021-09-26T08:11:46 IST" finished-at="2021-09-26T08:12:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46625" started-at="2021-09-26T08:11:46 IST" finished-at="2021-09-26T08:12:33 IST">
+      <class name="com.comprensive_assessment_hybrid_framework.runner.Runner">
+        <test-method status="PASS" signature="intilize()[pri:0, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="intilize" is-config="true" duration-ms="6992" started-at="2021-09-26T08:11:46 IST" finished-at="2021-09-26T08:11:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intilize -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="login" duration-ms="9237" started-at="2021-09-26T08:11:53 IST" finished-at="2021-09-26T08:12:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tvunits()[pri:0, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="tvunits" duration-ms="3489" started-at="2021-09-26T08:12:02 IST" finished-at="2021-09-26T08:12:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tvunits -->
+        <test-method status="PASS" signature="validate_stores()[pri:0, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="validate_stores" duration-ms="211" started-at="2021-09-26T08:12:06 IST" finished-at="2021-09-26T08:12:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_stores -->
+        <test-method status="PASS" signature="searchingelements()[pri:1, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="searchingelements" duration-ms="828" started-at="2021-09-26T08:12:06 IST" finished-at="2021-09-26T08:12:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchingelements -->
+        <test-method status="PASS" signature="gift_cards()[pri:2, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="gift_cards" duration-ms="9000" started-at="2021-09-26T08:12:07 IST" finished-at="2021-09-26T08:12:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gift_cards -->
+        <test-method status="PASS" signature="help()[pri:3, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="help" duration-ms="5636" started-at="2021-09-26T08:12:16 IST" finished-at="2021-09-26T08:12:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- help -->
+        <test-method status="PASS" signature="kidsroom()[pri:4, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="kidsroom" duration-ms="253" started-at="2021-09-26T08:12:22 IST" finished-at="2021-09-26T08:12:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kidsroom -->
+        <test-method status="PASS" signature="testdata(java.lang.String)[pri:5, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="testdata" duration-ms="1955" started-at="2021-09-26T08:12:23 IST" data-provider="exceldata" finished-at="2021-09-26T08:12:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[furniture]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata -->
+        <test-method status="PASS" signature="testdata(java.lang.String)[pri:5, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="testdata" duration-ms="2495" started-at="2021-09-26T08:12:25 IST" data-provider="exceldata" finished-at="2021-09-26T08:12:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chairs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata -->
+        <test-method status="PASS" signature="testdata(java.lang.String)[pri:5, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="testdata" duration-ms="2103" started-at="2021-09-26T08:12:27 IST" data-provider="exceldata" finished-at="2021-09-26T08:12:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dining]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata -->
+        <test-method status="PASS" signature="searchtab()[pri:6, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="searchtab" duration-ms="2824" started-at="2021-09-26T08:12:29 IST" finished-at="2021-09-26T08:12:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchtab -->
+        <test-method status="PASS" signature="connectwithus()[pri:8, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="connectwithus" duration-ms="430" started-at="2021-09-26T08:12:32 IST" finished-at="2021-09-26T08:12:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectwithus -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="close" is-config="true" duration-ms="216" started-at="2021-09-26T08:12:33 IST" finished-at="2021-09-26T08:12:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.comprensive_assessment_hybrid_framework.runner.Runner@11e21d0e]" name="test" is-config="true" duration-ms="9056" started-at="2021-09-26T08:12:33 IST" finished-at="2021-09-26T08:12:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.comprensive_assessment_hybrid_framework.runner.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

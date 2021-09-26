@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.comprensive_assessment_hybrid_framework.reuseabelComponents.Listeners"/>
+    <listener class-name="com.comprensive_assessment_hybrid_framework.utility.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="runner(failed)">
+    <classes>
+      <class name="com.comprensive_assessment_hybrid_framework.runner.Runner">
+        <methods>
+          <include name="close"/>
+          <include name="intilize"/>
+          <include name="test"/>
+          <include name="sale"/>
+        </methods>
+      </class> <!-- com.comprensive_assessment_hybrid_framework.runner.Runner -->
+    </classes>
+  </test> <!-- runner(failed) -->
+</suite> <!-- Failed suite [Suite] -->
